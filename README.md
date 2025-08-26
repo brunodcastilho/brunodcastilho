@@ -45,7 +45,7 @@ I'm a **Control and Automation Engineer** with expertise combining **hardware an
 
 ## 🧰 Technologies
 
-- **Languages:** C, C++, C#, JavaScript, PHP, Go, HTML, CSS  
+- **Languages:** C, C++, C#, JavaScript, Python, Go, PHP, HTML, CSS  
 - **Platforms:** Arduino, ESP-IDF, MPLAB  
 - **PCB Tools:** Proteus (Gerber, BOM, Pick and Place)  
 - **Other:** FreeRTOS, NVS, OTA updates, CAN Bus, RF protocols
